@@ -1,0 +1,21 @@
+
+  body,html {
+          margin:0;
+         padding:0;
+         background-image: url(image/body.jpg);
+          background-repeat: no-repeat;
+          background-size: 100% 100%;
+
+          
+
+          }
+header{
+         margin:0;
+         padding:0;
+         } 
+.navbar{
+   margin-bottom: 0!important;
+}
+#div{
+display:block;
+}
